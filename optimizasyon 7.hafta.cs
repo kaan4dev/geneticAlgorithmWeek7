@@ -1,4 +1,4 @@
-class GenetikAlgoritma
+ class GenetikAlgoritma
 {
     private List<Ders> dersler;
     private List<OgretimUyesi> ogretimUyeleri;
